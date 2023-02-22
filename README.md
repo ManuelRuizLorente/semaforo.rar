@@ -1,4 +1,4 @@
-# semaforo.rar
+# semaforo
 Hola buenas noches uwu
 
 
